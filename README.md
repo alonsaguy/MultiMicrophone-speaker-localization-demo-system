@@ -19,4 +19,4 @@ The code is written in Matlab and it is running via Matlab GUI.
 
 This project was done under supervision of SIPL lab at The Technion - Israel Institute of Technonology 
 
-![SIPL_logo](/SIPL_logo.png width="400" hieght="250")
+<img src="SIPL_logo" data-canonical-src="/SIPL_logo.png" width="200" height="400" />
