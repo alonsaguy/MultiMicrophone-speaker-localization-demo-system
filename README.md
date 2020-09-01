@@ -1,6 +1,6 @@
 # MultiMicrophone-Speaker-Localization-Demo-System
 
-This projects goal is to localize a speaker inside a room using a microphones array.
+This projects goal is to localize a speaker inside a room using microphones array.
 The code is written in Matlab and it is running via Matlab GUI.
 
 ![Blocks_diagram](/Blocks_diagram.PNG)
@@ -20,3 +20,5 @@ The code is written in Matlab and it is running via Matlab GUI.
 This project was done under supervision of SIPL lab at The Technion - Israel Institute of Technonology 
 
 <img src="/SIPL_logo.png" data-canonical-src="/SIPL_logo.png" width="500" height="150" />
+
+Project participant: Alon Saguy and Avi Semo
