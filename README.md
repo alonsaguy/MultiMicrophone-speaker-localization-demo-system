@@ -3,7 +3,7 @@
 This projects goal is to localize a speaker inside a room using a microphones array.
 The code is written in Matlab and is ran from a Matlab GUI.
 
-![Blocks_diagram](/Blocks_diagram.png)
+![Blocks_diagram](/Blocks_diagram.PNG)
 
 **Code Structure:**
 * GUIAA.m - run this file to open the GUI and start the run
